@@ -1,4 +1,5 @@
 # Ragnarok Items Verify
+<img alt="GitHub" src="https://img.shields.io/github/license/lucasarchangelo/items-verify-ragnarok?style=plastic">
 
 ## To configure this script:
 ## Extract your GRF file to data folder, it doesn`t read GRF files.
