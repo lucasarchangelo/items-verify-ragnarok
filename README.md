@@ -6,3 +6,5 @@
 ## Open paths.conf, and change to your correct paths yml/lua and grf files
 
 ## Run execute_me.py
+
+If you don't know about python, see this: <a href="https://blog.rocketseat.com.br/author/thiago/">
